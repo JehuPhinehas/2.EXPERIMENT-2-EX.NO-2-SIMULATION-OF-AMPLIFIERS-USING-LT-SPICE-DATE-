@@ -57,13 +57,14 @@ PASTE THE OUTPUT WAVEFORM HERE
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="1594" height="981" alt="image" src="https://github.com/user-attachments/assets/f4e2f633-78f3-452b-a03f-fa6c7eae5d85" />
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
----
+<img width="1919" height="1099" alt="Screenshot 2025-11-27 193301" src="https://github.com/user-attachments/assets/a597f8d5-a7c3-402f-8741-254e48e970c2" />
+
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
 PASTE THE CIRCUIT HERE
