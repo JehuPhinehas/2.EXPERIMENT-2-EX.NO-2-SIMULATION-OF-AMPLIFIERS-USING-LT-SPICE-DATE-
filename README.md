@@ -44,7 +44,6 @@ PASTE THE CIRCUIT HERE
 <img width="1207" height="888" alt="Screenshot 2025-11-27 192912" src="https://github.com/user-attachments/assets/c1dd4dee-a260-4c80-b802-aab4ace60e63" />
 
 ---
-<img width="1207" height="888" alt="image" src="https://github.com/user-attachments/assets/5f4dfae4-3331-493d-8b0d-74a0932636a8" />
 
 
 ---
