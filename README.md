@@ -22,7 +22,7 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+<img width="806" height="524" alt="image" src="https://github.com/user-attachments/assets/dbf07770-7ffe-4e4d-984c-98d98725e7f1" />
 
 
 
@@ -41,10 +41,15 @@ DATE:
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="1207" height="888" alt="Screenshot 2025-11-27 192912" src="https://github.com/user-attachments/assets/c1dd4dee-a260-4c80-b802-aab4ace60e63" />
+
+---
+<img width="1207" height="888" alt="image" src="https://github.com/user-attachments/assets/5f4dfae4-3331-493d-8b0d-74a0932636a8" />
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1914" height="955" alt="image" src="https://github.com/user-attachments/assets/f20cba0e-bf1a-4eda-b0cf-49b744d7774a" />
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
