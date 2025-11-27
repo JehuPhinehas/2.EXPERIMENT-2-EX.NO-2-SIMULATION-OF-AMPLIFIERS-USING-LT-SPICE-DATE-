@@ -69,12 +69,17 @@ PASTE THE CIRCUIT HERE
 PASTE THE CIRCUIT HERE
 ---
 
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/637ac614-ce45-4468-a82a-340ce8b8ffd2" />
+
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
+
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/d57b9645-3e8e-4def-a7da-a019a5ae96c1" />
+
 
 ## RESULT
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
