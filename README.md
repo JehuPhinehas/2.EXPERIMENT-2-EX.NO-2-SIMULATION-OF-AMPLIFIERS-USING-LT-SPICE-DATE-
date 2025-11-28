@@ -22,7 +22,8 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="806" height="524" alt="image" src="https://github.com/user-attachments/assets/dbf07770-7ffe-4e4d-984c-98d98725e7f1" />
+<img width="916" height="1280" alt="image" src="https://github.com/user-attachments/assets/583896c6-5d4a-4213-8c5b-951e1a2142ac" />
+<img width="806" height="524" alt="Screenshot 2025-11-27 192821" src="https://github.com/user-attachments/assets/c03f15fd-ed1a-4059-a747-9b3ffa8dca13" />
 
 
 
@@ -31,8 +32,6 @@ DATE:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
-
 <img width="1912" height="511" alt="image" src="https://github.com/user-attachments/assets/e4f9b205-70c1-46a8-a92e-e6cf654524b1" />
 
 ---
@@ -41,6 +40,9 @@ DATE:
 
 PASTE THE CIRCUIT HERE
 ---
+
+<img width="920" height="1280" alt="image" src="https://github.com/user-attachments/assets/4baa0d5b-b69a-4bda-9c1b-856481f7c691" />
+
 <img width="1207" height="888" alt="Screenshot 2025-11-27 192912" src="https://github.com/user-attachments/assets/c1dd4dee-a260-4c80-b802-aab4ace60e63" />
 
 ---
@@ -56,6 +58,9 @@ PASTE THE OUTPUT WAVEFORM HERE
 
 PASTE THE CIRCUIT HERE
 ---
+
+<img width="1042" height="1279" alt="image" src="https://github.com/user-attachments/assets/43b7f4a9-276f-44f0-a4a8-4fcb38ae2e50" />
+
 <img width="1594" height="981" alt="image" src="https://github.com/user-attachments/assets/f4e2f633-78f3-452b-a03f-fa6c7eae5d85" />
 
 
